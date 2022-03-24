@@ -1,0 +1,2 @@
+Profe, el archivo .txt que se llama Datos, es para leerlos desde R para el ejemplo de regresión lineal, para que cheque la ruta
+Lo hice así por que quería probar la lectura de los archivos jaja
